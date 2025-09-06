@@ -1,3 +1,4 @@
+import "@/styles/global.css"
 import { View, Text } from "react-native"
 
 
